@@ -43,13 +43,15 @@ namespace ExampleProject
 
             //TypeOfOperator typeOfOperator = new TypeOfOperator();
 
-            Box box1 = new Box(2, 2, 2);
-            Box box2 = new Box(2, 2, 2);
-            Box box3 = box1 + box2;
+            //Box box1 = new Box(2, 2, 2);
+            //Box box2 = new Box(2, 2, 2);
+            //Box box3 = box1 + box2;
 
-            Console.WriteLine("Length : " + box3.GetLength());
-            Console.WriteLine("Width : " + box3.GetWidth());
-            Console.WriteLine("Height : " + box3.GetHeight());
+            //Console.WriteLine("Length : " + box3.GetLength());
+            //Console.WriteLine("Width : " + box3.GetWidth());
+            //Console.WriteLine("Height : " + box3.GetHeight());
+
+            BuiltInDataTyes builtInDataTyes = new BuiltInDataTyes();
 
 
 
